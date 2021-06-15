@@ -1,0 +1,1 @@
+class BadTypeException implements Exception {}
